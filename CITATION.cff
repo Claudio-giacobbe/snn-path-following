@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SNN Path Following: Bio-inspired Trail Following with CoppeliaSim, OpenCV and Spiking Neural Networks"
+message: "If you use this project, please cite it as an academic project by Claudio Giacobbe."
+type: software
+authors:
+  - family-names: Giacobbe
+    given-names: Claudio
+year: 2026
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/snn-path-following"
